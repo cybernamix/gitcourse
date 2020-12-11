@@ -1,1 +1,1 @@
-# lgitcourse
+# gitcourse
